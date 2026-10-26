@@ -1,0 +1,41 @@
+{
+  "item": {
+    "id": "979821130311",
+    "restype": "watchface",
+    "name": "我眼镜呢",
+    "description": "没戴眼镜的时候，世界先糊成一片，时间也跟着糊了。可你还是认得出那是几点。\n我把数字放到最大，大过屏幕，大到边缘自己化开——像视力表最上面那一行，\n看不清，也不需要看清。小时在变，分钟在变，星期、日期、电量都在变；\n只有那层雾不变，稳稳地罩着每一刻。\n息屏时它退成一道描边，抬腕，又实了回去。\n我眼镜呢？——大概就在桌上。而此刻，已经替你糊糊地报过了。",
+    "preview": [
+      "media/02_主图_2x3_结果.png",
+      "media/03_AOD_2x3_结果.png",
+      "media/04_理念_2x3_结果.png"
+    ],
+    "icon": "media/图标.png",
+    "cover": "media/01_头图_3x2_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "airplane-tilt"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/23-01-我眼镜呢-10-26-18-54.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
